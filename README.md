@@ -1,1 +1,1 @@
-# DE_VDT_ASSIGNMENT
+# demo-kafka-three-brokers
