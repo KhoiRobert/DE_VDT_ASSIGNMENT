@@ -15,7 +15,7 @@ import com.opencsv.CSVReader;
 
 public class VdtConsumer {
 
-	private static final String TOPIC_NAME = "log_action";
+	private static final String TOPIC_NAME = "vdt2024";
     private static final String BOOTSTRAP_SERVERS = "localhost:9092,localhost:9094, localhost:9095";
     private static final String GROUP_ID = "vdt-log-action";
 
